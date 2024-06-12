@@ -1,6 +1,6 @@
 # save_note_articles_to_files
 
-This repository contains a script to save note articles from a specific website to files.
+This repository contains a script to save note articles from a specific website to files. The script saves articles in batches of 500,000.
 
 ## Usage
 
